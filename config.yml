@@ -19,6 +19,7 @@ reinforcements:
   - OBSIDIAN
   - SPONGE
   - ENDER_CHEST
+  - HAY_BLOCK
  diamond:
   material: DIAMOND
   requirements: 1
