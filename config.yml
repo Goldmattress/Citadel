@@ -20,6 +20,10 @@ reinforcements:
   - SPONGE
   - ENDER_CHEST
   - HAY_BLOCK
+  - PISTON_BASE
+  - PISTON_EXTENSION 
+  - PISTON_MOVING_PIECE 
+  - PISTON_STICKY_BASE 
  diamond:
   material: DIAMOND
   requirements: 1
