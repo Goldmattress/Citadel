@@ -9,11 +9,16 @@ reinforcements:
   requirements: 1
   return: 1
   percent_chance: 100
-  hit_points: 5000
+  hit_points: 10000
 # mature time is in minutes
   mature_time: 1440
   scale_amount: 0
   lore:
+  non_reinforceables:
+ - BEACON
+ - OBSIDIAN
+ - SPONGE
+ - ENDER_CHEST
  diamond:
   material: DIAMOND
   requirements: 1
