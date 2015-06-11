@@ -15,10 +15,10 @@ reinforcements:
   scale_amount: 0
   lore:
   non_reinforceables:
- - BEACON
- - OBSIDIAN
- - SPONGE
- - ENDER_CHEST
+  - BEACON
+  - OBSIDIAN
+  - SPONGE
+  - ENDER_CHEST
  diamond:
   material: DIAMOND
   requirements: 1
